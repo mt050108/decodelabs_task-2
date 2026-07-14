@@ -28,7 +28,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 
 
 ## Files Included
-- Project2_EDA.xlsx
+- EDA.xlsx
 
 ## Skills Demonstrated
 - Exploratory Data Analysis (EDA)
